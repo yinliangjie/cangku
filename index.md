@@ -1,4 +1,4 @@
-哈哈我新建的仓库
+哈哈我新建仓库
 
 You can use the [editor on GitHub](https://github.com/yinliangjie/cangku/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
